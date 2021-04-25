@@ -17,7 +17,7 @@ When I first opened an example Robocode bot in VSCode, it looked like this:
 
 If you don't already have it (I didn't) get the "Java Extension Pack" from the extension manager.
 To add libs\robocode.jar as a library, expand Java projects on the left and click the '+' next to Referenced Libraries to choose it.
-![image](https://user-images.githubusercontent.com/20260142/116006395-3d92b880-a5c8-11eb-84ae-065c88b4f568.png)
+![image](https://user-images.githubusercontent.com/20260142/116006395-3d92b880-a5c8-11eb-84ae-065c88b4f568.png)\
 Once it's added, all the Robocode library errors should go away.
 
 ### Compiling your robot with a simple shortcut
