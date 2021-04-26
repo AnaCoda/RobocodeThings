@@ -1,5 +1,6 @@
 # RobocodeThings
 For putting my Robocode robots and setup instructions
+https://robocode.sourceforge.io/
 
 ## Making robots outside of the default editor (Visual Studio Code)
 
@@ -26,7 +27,7 @@ If you don't want to have to copy the compile command every time you start a new
 Using the command palette, select "Preferences: Open Keyboard Shortcuts (JSON)"
 ![image](https://user-images.githubusercontent.com/20260142/116006583-1dafc480-a5c9-11eb-93d3-594dc1ca4216.png)
 
-Choose the shortcut you want to use and add the command like this (edit the args compile line if your robocode installation is in a different location than mine):\
+Choose the shortcut you want to use and add the command like this (edit the args compile line if your robocode installation is in a different location than mine):
 ```
 // Place your key bindings in this file to override the defaults
 [
